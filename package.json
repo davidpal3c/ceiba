@@ -1,0 +1,14 @@
+{
+  "name": "ceiba",
+  "version": "0.0.1",
+  "description": "Ceiba is a lightweight API access and monetization layer for modern APIs.",
+  "type": "module",
+  "main": "dis/index.js",
+  "files": ["dist", "README.md", "LICENSE"],
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "David Palacios"
+}
