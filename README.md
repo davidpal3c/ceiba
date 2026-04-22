@@ -54,4 +54,4 @@ Core principle
 A developer should be able to protect an endpoint and integrate the product in minutes.
 
 Project secret
-Server-side credential used by the customer backend / SDK to call Aletheos runtime and management APIs.
+Server-side credential used by the customer backend / SDK to call ceiba-runtime and management APIs.
