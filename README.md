@@ -6,7 +6,6 @@ It sits in front of your APIs to enforce access, limits, and usage.
 
 More at: https://useceiba.com
 
-
 Ceiba helps developers protect endpoints, issue and manage access keys, enforce limits, track usage, and monetize API access without building the full access stack from scratch. It is part of the production-inspired Aluna-Platform designed to explore infrastructure, observability, and workload operations.
 
 This repository contains the product source code for 
