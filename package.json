@@ -1,7 +1,7 @@
 {
   "name": "ceiba",
   "version": "0.0.1",
-  "description": "Ceiba is a lightweight API access and monetization layer for modern APIs.",
+  "description": "Add API keys, plans, quotas, and subscription-gated access to your existing Node API.",
   "type": "module",
   "main": "dis/index.js",
   "files": ["dist", "README.md", "LICENSE"],

@@ -1,5 +1,5 @@
 # Ceiba SDK (Node.js)
 
-Ceiba is a lightweight API access and monetization layer for modern APIs.
+Add API keys, plans, quotas, usage-aware access control, and subscription-gated protection to your existing Node API.
 
 This package provides a drop-in SDK for integrating Ceiba into Node.js applications.
